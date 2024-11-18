@@ -11,9 +11,9 @@
 
 - 🤝 I’m looking for help with **Advanced techniques in NLP and CV, or exploring new AI research ideas.**
 
-- 👨‍💻 All of my projects are available at [......](......)
+<!-- 👨‍💻 All of my projects are available at [......](......)-->
 
-- 📝 I regularly write articles on [.....](.....)
+<!--📝 I regularly write articles on [.....](.....)-->
 
 - 💬 Ask me about **AI(Python) and Front-end Development(HTML,CSS,JS)**
 
