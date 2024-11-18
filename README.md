@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahaf Al Hallay</h1>
-<h3 align="center">Computer Science major specializing in Artificial Intelligence. I am passionate about AI and the latest technologies, and I am always excited to find new ways to push the boundaries of what technology can do. 🚀🌟</h3>
+<h3 align="center">🎓 I’m a fresh graduate in Computer Science specializing in Artificial Intelligence. I am passionate about AI and the latest technologies, and I am always excited to find new ways to push the boundaries of what technology can do. 🚀🌟</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/236204/screenshots/4353062/media/11705dbe3d8bb0b292040f2fc1e32583.gif">
 
